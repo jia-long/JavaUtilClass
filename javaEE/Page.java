@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Page<T extends Serializable> {
-	private int pageIndex; // 页面索引号
+	private int pageIndex; // 页面索引号 
 
 	private int pageCount; // 页面总数
 
